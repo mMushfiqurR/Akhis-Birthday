@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Moonlight for Akhi 🌙</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Great+Vibes&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/variables.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/animations.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    
+</head>
+<body>
+
+    <!-- Background Canvas -->
+    <canvas id="backgroundCanvas"></canvas>
+
+    <!-- Effects Canvas -->
+    <canvas id="effectsCanvas"></canvas>
+
+    <main id="app">
+
+        <section id="landing" class="scene">
+
+            <div class="moon"></div>
+
+            <div class="hero">
+
+                <p class="subtitle">
+    Happy Birthday
+</p>
+
+<h1
+    class="title"
+    id="heroName">
+</h1>
+
+<p
+    class="quote"
+    id="heroQuote">
+</p>
+
+                <button id="beginButton" class="button">
+    Begin Our Journey ❤️
+</button>
+
+            </div>
+
+        </section>
+         </section>
+
+    <!-- New Story Scene -->
+    <section id="story" class="scene">
+
+    <div class="hero">
+
+    <div class="story-heart">
+        ❤️
+    </div>
+
+    <p class="subtitle">
+        Our Story
+    </p>
+
+    <h2 class="title">
+        24 October 2024
+    </h2>
+
+    <p class="story-text">
+        The day our universe changed.
+    </p>
+
+    <div class="days-box">
+
+        <span class="days-label">
+            Together For
+        </span>
+
+        <span id="daysTogether" class="days-number">
+            0
+        </span>
+
+        <span class="days-label">
+            Days
+        </span>
+
+    </div>
+
+    <button
+        id="continueButton"
+        class="button">
+
+        Continue →
+
+    </button>
+
+</div>
+
+</section>
+<section id="memory1" class="scene">
+
+    <div class="hero">
+
+        <div class="memory-icon">
+            🌕
+
+        </div>
+
+        <p class="subtitle">
+            Our Favorite Memory
+        </p>
+
+        <h2 class="title">
+            Watching the Moon Together
+        </h2>
+
+        <p class="story-text">
+
+            At TARC...
+
+            <br><br>
+
+            One moon.
+
+            Two hearts.
+
+            One unforgettable night.
+
+        </p>
+
+        <button
+            id="memoryContinue"
+            class="button">
+
+            Continue →
+
+        </button>
+
+    </div>
+
+</section>
+
+<section id="gallery" class="scene">
+
+    <div class="hero">
+
+        <p class="subtitle">
+            Our Memories
+        </p>
+
+        <div id="galleryContainer"></div>
+
+    </div>
+
+</section>
+<section id="letter" class="scene">
+
+    <div class="hero">
+
+        <h2 class="subtitle">
+            One More Thing...
+        </h2>
+
+        <button id="openLetter" class="button">
+            Open My Letter 💌
+        </button>
+
+        <div class="letter-card">
+
+            <h2 class="letter-title">
+                To My Dearest Akhi ❤️
+            </h2>
+
+            <p id="letterText" class="letter-text"></p>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+    </main>
+
+    <script type="module" src="assets/js/app.js"></script>
+
+</body>
+
+</html>

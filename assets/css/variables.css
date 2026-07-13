@@ -1,0 +1,28 @@
+:root{
+
+    /* Colors */
+    --color-bg:#041C32;
+    --color-bg-light:#0B2C4D;
+
+    --color-primary:#7EC8E3;
+    --color-secondary:#FFD369;
+
+    --color-white:#F8FAFC;
+    --color-text:#D9E8F5;
+
+    /* Fonts */
+    --font-title:'Cinzel',serif;
+    --font-body:'Poppins',sans-serif;
+    --font-script:'Great Vibes',cursive;
+
+    /* Sizes */
+    --max-width:1200px;
+
+    --transition:0.35s ease;
+
+    --shadow:
+        0 15px 40px rgba(0,0,0,.35);
+
+    --radius:16px;
+
+}
