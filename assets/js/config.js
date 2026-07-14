@@ -63,9 +63,12 @@ letter: `Happy Birthday, Akhi.
 
 Every moment with you has become one of my favorite memories.
 
-From watching the moon together,
+From watching the moon together at TARC,
 to every little conversation,
-to every smile you've given me...
+to every fights that we had over the past two years, 
+to every little care you've shown me. 
+
+I never thought I would find someone like you who's gonna care for me so much.
 
 Thank you for making my life brighter.
 
