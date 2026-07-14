@@ -39,22 +39,22 @@ export const CONFIG = {
 gallery: [
     {
         image: "assets/images/photos/photo1.jpg",
-        title: "Our Favorite Photo",
+        title: "My Favourite Picture of us.",
         caption: "One of my favorite moments with you ❤️"
     },
     {
         image: "assets/images/photos/photo2.jpg",
-        title: "Memory #2",
+        title: "Look how Pretty My Wifey Looks..",
         caption: "Another beautiful memory."
     },
     {
         image: "assets/images/photos/photo3.jpg",
-        title: "Memory #3",
+        title: "Remember where it all started?",
         caption: "Every moment with you is special."
     },
     {
         image: "assets/images/photos/photo4.jpg",
-        title: "Memory #4",
+        title: "My Dearest wifey with me.",
         caption: "More memories, more smiles."
     }
 ],
