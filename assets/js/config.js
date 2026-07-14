@@ -59,7 +59,7 @@ gallery: [
     }
 ],
 
-letter: `Happy Birthday, My Sweetest Wifey.
+letter: `Happy Birthday, My Sweetest Akhi.
 
 Every moment with you has become one of my favorite memories.
 
