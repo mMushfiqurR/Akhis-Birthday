@@ -59,7 +59,7 @@ gallery: [
     }
 ],
 
-letter: `Happy Birthday, Akhi.
+letter: `Happy Birthday, My Sweetest Wifey.
 
 Every moment with you has become one of my favorite memories.
 
@@ -69,13 +69,20 @@ to every fights that we had over the past two years,
 to every little care you've shown me. 
 
 I never thought I would find someone like you who's gonna care for me so much.
+In every difficulty that we faced, we faced it together and came out of it.
 
-Thank you for making my life brighter.
 
-I hope today brings you as much happiness
-as you've brought into mine.
+Thank you for making my life brighter as the sun.
+Thank you for being with me in every ups and downs of my life.
+Thank you for choosing me over the world. 
+
+
+I hope this day brings you as much happiness
+as you've brought into my life.
 
 I Love You ♾️
+I Love You More Than Anything
+I Love You More Than Everything
 
 — Mooshie`,
 
