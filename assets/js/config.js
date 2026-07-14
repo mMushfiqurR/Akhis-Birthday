@@ -68,13 +68,15 @@ to every little conversation,
 to every fights that we had over the past two years, 
 to every little care you've shown me. 
 
-I never thought I would find someone like you who's gonna care for me so much.
+I never thought I would find someone like you who's gonna care for me so much,
+But I did, I Found You.
 In every difficulty that we faced, we faced it together and came out of it.
 
 
 Thank you for making my life brighter as the sun.
+Thank you for being my calm as the moon.
 Thank you for being with me in every ups and downs of my life.
-Thank you for choosing me over the world. 
+Thank you for choosing me over the world.
 
 
 I hope this day brings you as much happiness
